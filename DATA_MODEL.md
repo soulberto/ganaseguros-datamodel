@@ -1,5 +1,10 @@
 # Modelo de datos implementado para Ganaseguros
 
+Consideraciones:
+
+- Los objetos personalizados implementados para el cliente y que complementan el model de datos de Insurance tiene el prefijo `clb_ins_`.
+- Este modelo de datos se encuentra en construcción, por ende esta documentación en una referencia y esta en constante actualización.
+
 ## Nivel 0
 
 ![Modelo de datos](/images/Screenshot%202023-04-04%20at%209.14.31%20AM.png)
