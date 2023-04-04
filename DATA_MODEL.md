@@ -1,10 +1,10 @@
 # Modelo de datos implementado para Ganaseguros
 
-## Nivelo 0
+## Nivel 0
 
 ![Modelo de datos](/images/Screenshot%202023-04-04%20at%209.14.31%20AM.png)
 
-## Nivel 1 
+## Nivel 1
 
 ### Account
 
