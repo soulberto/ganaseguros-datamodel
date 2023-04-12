@@ -31,6 +31,10 @@ Consideraciones:
 
 ![Modelo de datos nivel 1 - Explosión de Insurance Policy y sus relaciones](/images/Screenshot%202023-04-04%20at%209.44.51%20AM.png)
 
+### Tarificación y Detalles de tarificación
+
+![Modelo de datos nivel 1 - Detalles de tarificación e historico de tarificaciones](/images/Screenshot%202023-04-11%20at%208.10.19%20AM.png)
+
 ## Listado de objetos
 
 -   clb_ins_MedicalReport\_\_c
