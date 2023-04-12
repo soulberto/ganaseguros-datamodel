@@ -74,5 +74,6 @@ Consideraciones:
 -   AccountContactRelation
 -   Product2
 -   Producer
--   clb_ins_PolicyRatingDetail\_\_b
+-   clb_ins_PolicyRatingDetail\_\_c
+-   clb_ins_PolicyRatingDetailsHistorical\_\_b
 -   vlocity_ins_DocumentTemplate\_\_c
